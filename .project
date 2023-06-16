@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>maven-book</name>
+=======
+	<name>maven-bank</name>
+>>>>>>> ae37369fb9be7f40285bd520464334165aa6009a
 	<comment></comment>
 	<projects>
 	</projects>
